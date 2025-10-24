@@ -13,12 +13,21 @@ I bridge the gap between **People and Data**, translating HR metrics into action
 
 ---
 
-## ✨ Featured Data Science Projects  
+## 🚀 Featured Projects
 
-| Project | Skills Demonstrated | Business Impact | Link |
-|----------|---------------------|-----------------|------|
-| **Predictive Employee Attrition Model** | Machine Learning (Random Forest), Feature Engineering, HRIS Data Analysis, Model Deployment | Predicts employees at risk of leaving, enabling proactive retention and saving potential turnover costs. | [🔗 View Project](https://github.com/achubrayan/People-Analytics-Attrition-Model/tree/main) |
-| **SpaceX Launch Success Prediction Capstone** | End-to-End ML Pipeline, API Integration, SQL EDA, Data Cleaning, Classification Modeling | Demonstrates full Data Science lifecycle by predicting successful rocket launches using real-world SpaceX data. | [🔗 View Project](https://github.com/achubrayan/SpaceX-Data-Science-Project) |
+<p align="center">
+  <a href="https://github.com/achubrayan/People-Analytics-Attrition-Model/tree/main">
+    <img src="https://img.shields.io/badge/Predictive%20Employee%20Attrition%20Model-blue?style=for-the-badge" alt="Attrition Model Badge"/>
+  </a>
+  <a href="https://github.com/achubrayan/SpaceX-Data-Science-Project">
+    <img src="https://img.shields.io/badge/SpaceX%20Launch%20Success%20Capstone-red?style=for-the-badge" alt="SpaceX Capstone Badge"/>
+  </a>
+</p>
+
+| Project | Description |
+|---------|-------------|
+| **Predictive Employee Attrition Model** | Predicts employees at high risk of leaving using Machine Learning (Random Forest). Enables proactive retention strategies and reduces turnover costs. |
+| **SpaceX Launch Success Prediction Capstone** | End-to-end Data Science project demonstrating data collection, cleaning, and predictive modeling of SpaceX rocket launches. |
 
 ---
 
