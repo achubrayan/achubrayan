@@ -16,18 +16,29 @@ I bridge the gap between **People and Data**, translating HR metrics into action
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/achubrayan/People-Analytics-Attrition-Model/tree/main">
-    <img src="https://img.shields.io/badge/Predictive%20Employee%20Attrition%20Model-blue?style=for-the-badge" alt="Attrition Model Badge"/>
+  <a href="https://github.com/achubrayan/People-Analytics-Attrition-Model/tree/main" target="_blank">
+    <img src="https://img.shields.io/badge/Attrition%20Model-blue?style=for-the-badge&logo=python&logoColor=white" alt="Predictive Employee Attrition Model" />
   </a>
-  <a href="https://github.com/achubrayan/SpaceX-Data-Science-Project">
-    <img src="https://img.shields.io/badge/SpaceX%20Launch%20Success%20Capstone-red?style=for-the-badge" alt="SpaceX Capstone Badge"/>
+  <a href="https://github.com/achubrayan/SpaceX-Data-Science-Project" target="_blank">
+    <img src="https://img.shields.io/badge/SpaceX%20Capstone-red?style=for-the-badge&logo=python&logoColor=white" alt="SpaceX Launch Success Prediction" />
   </a>
 </p>
 
-| Project | Description |
-|---------|-------------|
-| **Predictive Employee Attrition Model** | Predicts employees at high risk of leaving using Machine Learning (Random Forest). Enables proactive retention strategies and reduces turnover costs. |
-| **SpaceX Launch Success Prediction Capstone** | End-to-end Data Science project demonstrating data collection, cleaning, and predictive modeling of SpaceX rocket launches. |
+<div align="center">
+
+### 🔹 Predictive Employee Attrition Model
+**Skills:** Random Forest, Feature Engineering, HR Data Analysis  
+**Impact:** Identifies high-risk employees for retention strategies and reduces turnover costs.  
+[View Project](https://github.com/achubrayan/People-Analytics-Attrition-Model/tree/main)
+
+---
+
+### 🔹 SpaceX Launch Success Prediction Capstone
+**Skills:** Data Science Lifecycle, API Integration, SQL, Classification Modeling  
+**Impact:** Predicts launch success for Falcon 9 using real-world SpaceX datasets.  
+[View Project](https://github.com/achubrayan/SpaceX-Data-Science-Project)
+
+</div>
 
 ---
 
@@ -48,8 +59,6 @@ I bridge the gap between **People and Data**, translating HR metrics into action
 | **LinkedIn Learning** | *Strategic Human Resources* | HR Strategy, Organizational Impact |
 | **LinkedIn Learning** | *Organizational Learning & Development* | Training Design, Employee Development |
 | **Alison** | *Diploma in Human Resources (HR)* | HR Policies, Compensation, and Compliance |
-
-Each certification strengthens my foundation in **People Analytics**, **Machine Learning**, and **Data-Driven HR Strategy**, bridging human resource management with advanced data insights.
 
 ---
 
